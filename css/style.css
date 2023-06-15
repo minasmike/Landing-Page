@@ -1,7 +1,12 @@
+*{
+    margin: 0;
+    
+}
+
 .top-container{
     
     background-color: #1F2937;
-    
+    padding-bottom: 20px;
 }
 .menu{
     display: flex;
@@ -26,4 +31,33 @@
 }
 a{
     text-decoration-line: none;
+}
+.header-textpic{
+    display: flex;
+    align-content: center;
+    margin: 40px;
+
+}
+input{
+    background-color: #3882f6;
+    border-radius: 5px;
+    padding: 7px 25px 7px 25px;
+    color: #E5E7EB;
+    font-size: 18px;
+    border-color: #3882f6;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+.main-text{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+}
+.info-text{
+    color: #E5E7EB;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+   
 }
