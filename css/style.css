@@ -61,3 +61,15 @@ input{
     padding: 10px;
    
 }
+.body-title{
+    text-align: center;
+    color: #1F2937;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    font-weight: 900;
+}
+.gallary{
+    display: flex;
+    justify-content: space-evenly;
+}
